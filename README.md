@@ -1,3 +1,3 @@
 # CheckPoint-Progamer
 
-##Digital Business Enablement
+Digital Business Enablement
